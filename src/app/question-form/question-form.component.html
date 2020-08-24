@@ -1,1 +1,30 @@
-<p>question-form works!</p>
+<!--
+Although this template looks like HTML, if you look closely, you’ll see that it actually contains directives.
+For instance, the *ngIf="question" directive only renders the element it applies to (in this case, the 'quiz' div)
+if the condition it's given evaluates to true. This ensures you won’t access the question if it's not defined; in
+such cases, the template will render as empty.
+
+This piece of code (below) contains an interpolation, which is a kind of one-way binding. It's similar to React's brace
+syntax and puts the question.label string into this h1 element.
+
+Below is another directive:
+
+<label *ngFor="let choice of question.choices">
+
+This one—the ngFor directive—is pretty cool. It allows you to loop over a collection inside of the template.
+Here, you use it to render as many radio buttons as there are choices in the question.
+In a nutshell, what you’re doing here is wiring up what you defined in the component’s file (the TypeScript file) with some HTML,
+with the help of Angular's directives and binding syntax.
+-->
+
+<div class="quiz" *ngIf="question">
+  <h1>{{ question.label }}</h1>
+  <form [formGroup]="form">
+    <div class="form-group">
+      <label *ngFor="let choice of question.choices">
+        <input type="radio" [value]="choice" formControlName="choice" />
+        <span>{{ choice.value }}</span>
+      </label>
+    </div>
+  </form>
+</div>
