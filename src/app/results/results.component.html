@@ -5,6 +5,7 @@
     *ngFor="let a of answers.values"
     [ngClass]="{ correct: a.correct }"
   >
-    <a routerLink="/welcome" class="btn btn-primary">Choose another quiz</a>
+    {{ a.value }}
   </div>
+  <a routerLink="/welcome" class="btn btn-primary">Choose another quiz</a>
 </div>
