@@ -1,1 +1,15 @@
-<p>welcome works!</p>
+<div class="welcome">
+  <h1>Welcome to my Awesome Quiz!</h1>
+  <p>Choose your quiz</p>
+</div>
+<div class="quiz-list" *ngFor="let q of quiz">
+  <mat-card>
+    <mat-card-title>{{ q.label }}</mat-card-title>
+    <mat-card-content>{{ q.description }}</mat-card-content>
+    <mat-card-actions>
+      <button mat-raised-button color="accent">
+        <a routerLink="/{{ q.name }}">Select</a>
+      </button>
+    </mat-card-actions>
+  </mat-card>
+</div>
