@@ -5,7 +5,7 @@ import { Observable } from 'rxjs';
 @Injectable({
   providedIn: 'root',
 })
-/*Look at the constructor. Its signature contains two oddities: a namespace (private) and a type.
+/*Look at the constructor example below. Its signature contains two oddities: a namespace (private) and a type.
 The namespace is a way of initializing the instance with whatever is given as a parameter. It's a shortcut for the following:
 
 constructor(http: HttpClient) {
