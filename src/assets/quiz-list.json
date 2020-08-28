@@ -11,9 +11,9 @@
     "description": "Questions about french",
     "fileName": "french.json"
   },
-{
+  {
     "label": "The Simpsons",
-    "name": "the Simpsons",
+    "name": "the simpsons",
     "description": "Questions about the TV show The Simpsons",
     "fileName": "simpsons.json"
   }
