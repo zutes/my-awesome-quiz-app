@@ -1,31 +1,44 @@
-	
-0	
-label	"What is Hello in french?"
-choices	
-0	
-value	"Au revoir"
-correct	false
-1	
-value	"Bonjour"
-correct	true
-2	
-value	"Tant pis"
-correct	false
-3	
-value	"Salut!"
-correct	false
-1	
-label	"What is Goodbye in french?"
-choices	
-0	
-value	"Au revoir"
-correct	true
-1	
-value	"Bonjour"
-correct	false
-2	
-value	"Tant pis"
-correct	false
-3	
-value	"Salut!"
-correct	false
+[
+  {
+    "label": "What is Hello in french?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": false
+      },
+      {
+        "value": "Bonjour",
+        "correct": true
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Goodbye in french?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  }
+]
