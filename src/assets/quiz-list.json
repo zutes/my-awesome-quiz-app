@@ -1,14 +1,20 @@
 [
   {
-    "label": "Maths",
-    "name": "maths",
-    "description": "Questions about maths",
-    "fileName": "maths.json"
+    "label": "Math",
+    "name": "math",
+    "description": "Questions about math",
+    "fileName": "math.json"
   },
   {
     "label": "French",
     "name": "french",
     "description": "Questions about french",
     "fileName": "french.json"
+  },
+{
+    "label": "The Simpsons",
+    "name": "the Simpsons",
+    "description": "Questions about the TV show The Simpsons",
+    "fileName": "simpsons.json"
   }
 ]
