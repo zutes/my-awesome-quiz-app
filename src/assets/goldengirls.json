@@ -1,0 +1,99 @@
+[
+  {
+    "label": "Originally the producers wanted Betty White to play Blanche and Rue McClanahan to play Rose.",
+    "choices": [
+      {
+        "value": "True",
+        "correct": true
+      },
+      {
+        "value": "False",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What town was Rose from?",
+    "choices": [
+      {
+        "value": "Saint Louis",
+        "correct": false
+      },
+      {
+        "value": "St Olaf",
+        "correct": true
+      },
+      {
+        "value": "St. Augustine",
+        "correct": false
+      },
+      {
+        "value": "St. Joseph",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What Florida city did the show take place in?",
+    "choices": [
+      {
+        "value": "Fort Lauderdale",
+        "correct": false
+      },
+      {
+        "value": "Miami",
+        "correct": true
+      },
+      {
+        "value": "Clearwater",
+        "correct": false
+      },
+      {
+        "value": "West Palm Beach",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does Dorothy do for her career?",
+    "choices": [
+      {
+        "value": "Substitue Teacher",
+        "correct": true
+      },
+      {
+        "value": "Baker",
+        "correct": false
+      },
+      {
+        "value": "Accountant",
+        "correct": false
+      },
+      {
+        "value": "Travel Agent",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the name the retirement home Sophia lived in?",
+    "choices": [
+      {
+        "value": "The Care Palace",
+        "correct": false
+      },
+      {
+        "value": "Breezy Burrow",
+        "correct": false
+      },
+      {
+        "value": "Shady Pines",
+        "correct": true
+      },
+      {
+        "value": "Green Acres",
+        "correct": false
+      }
+    ]
+  }
+]

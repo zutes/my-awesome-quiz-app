@@ -16,5 +16,32 @@
       { "value": "Jazz", "correct": true },
       { "value": "Mathcore", "correct": false }
     ]
+  },
+  {
+    "label": "What is the name of the school bus driver?",
+    "choices": [
+      { "value": "Carl", "correct": false },
+      { "value": "Otto", "correct": true },
+      { "value": "Jimmy", "correct": false },
+      { "value": "Duff", "correct": false }
+    ]
+  },
+  {
+    "label": "Which actor does the voice for Homer's half-brother Herbert Powell?",
+    "choices": [
+      { "value": "James Earl Jones", "correct": false },
+      { "value": "Tommy Lee Jones", "correct": false },
+      { "value": "Will Ferrell", "correct": false },
+      { "value": "Danny DeVito", "correct": true }
+    ]
+  },
+  {
+    "label": "What is Mr. Burns' middle name?",
+    "choices": [
+      { "value": "Montgomery", "correct": true },
+      { "value": "Clarence", "correct": false },
+      { "value": "Langston", "correct": false },
+      { "value": "Norman", "correct": false }
+    ]
   }
 ]

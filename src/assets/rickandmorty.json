@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What does Rick use to travel between universes?",
+    "choices": [
+      {
+        "value": "Portal Gun",
+        "correct": true
+      },
+      {
+        "value": "Universe Traveling Bike",
+        "correct": false
+      },
+      {
+        "value": "Magic Wristband",
+        "correct": false
+      },
+      {
+        "value": "Imagination",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is Beth Smith's career?",
+    "choices": [
+      {
+        "value": "Speech Pathologist",
+        "correct": false
+      },
+      {
+        "value": "Horse Surgeon",
+        "correct": true
+      },
+      {
+        "value": "Scientist",
+        "correct": false
+      },
+      {
+        "value": "Store Manager",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What was the name of the Smith family’s pet dog?",
+    "choices": [
+      {
+        "value": "Carl",
+        "correct": false
+      },
+      {
+        "value": "Scruffles",
+        "correct": false
+      },
+      {
+        "value": "Snuffles",
+        "correct": true
+      },
+      {
+        "value": "Jack",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does Jerry task a Mr. Meeseeks to help him with?",
+    "choices": [
+      {
+        "value": "Woodworking",
+        "correct": false
+      },
+      {
+        "value": "Taxes",
+        "correct": false
+      },
+      {
+        "value": "Yardwork",
+        "correct": false
+      },
+      {
+        "value": "Golf",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Who does Morty have a crush on?",
+    "choices": [
+      {
+        "value": "Jessica",
+        "correct": true
+      },
+      {
+        "value": "Sadie",
+        "correct": false
+      },
+      {
+        "value": "Melissa",
+        "correct": false
+      },
+      {
+        "value": "Clarabelle",
+        "correct": false
+      }
+    ]
+  }
+]

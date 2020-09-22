@@ -1,20 +1,74 @@
 [
   {
-    "label": "Math",
-    "name": "math",
-    "description": "Questions about math",
-    "fileName": "math.json"
+    "label": "Happy Gilmore",
+    "name": "happy",
+    "description": "Questions about the movie Happy Gilmore",
+    "fileName": "happy.json"
   },
   {
-    "label": "French",
-    "name": "french",
-    "description": "Questions about french",
-    "fileName": "french.json"
+    "label": "It's Always Sunny in Philadelphia",
+    "name": "sunny",
+    "description": "Questions about the TV show It's Always Sunny in Philadelphia",
+    "fileName": "sunny.json"
+  },
+  {
+    "label": "Ghostbusters",
+    "name": "ghostbusters",
+    "description": "Questions about the 1984 movie Ghostbusters",
+    "fileName": "ghostbusters.json"
   },
   {
     "label": "The Simpsons",
     "name": "thesimpsons",
     "description": "Questions about the TV show The Simpsons",
     "fileName": "thesimpsons.json"
+  },
+  {
+    "label": "Workaholics",
+    "name": "workaholics",
+    "description": "Questions about the TV show Workaholics",
+    "fileName": "workaholics.json"
+  },
+  {
+    "label": "Dazed and Confused",
+    "name": "dazedandconfused",
+    "description": "Questions about the movie Dazed and Confused",
+    "fileName": "dazedandconfused.json"
+  },
+  {
+    "label": "The Golden Girls",
+    "name": "goldengirls",
+    "description": "Questions about the TV show The Golden Girls",
+    "fileName": "goldengirls.json"
+  },
+  {
+    "label": "Rick and Morty",
+    "name": "rickandmorty",
+    "description": "Questions about the TV show Rick and Morty",
+    "fileName": "rickandmorty.json"
+  },
+  {
+    "label": "The Waterboy",
+    "name": "waterboy",
+    "description": "Questions about the movie The Waterboy",
+    "fileName": "waterboy.json"
+  },
+  {
+    "label": "Chappelle's Show",
+    "name": "chappelle",
+    "description": "Questions about the TV show Chappelle's Show",
+    "fileName": "chappelle.json"
+  },
+  {
+    "label": "Saturday Night Live",
+    "name": "snl",
+    "description": "Questions about the TV show Saturday Night Live",
+    "fileName": "snl.json"
+  },
+  {
+    "label": "Office Space",
+    "name": "officespace",
+    "description": "Questions about the movie Office Space",
+    "fileName": "officespace.json"
   }
 ]

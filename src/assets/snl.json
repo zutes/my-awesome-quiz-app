@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Who has hosted SNL the most times?",
+    "choices": [
+      { "value": "Steve Martin", "correct": false },
+      { "value": "Alec Baldwin", "correct": true },
+      { "value": "John Goodman", "correct": false },
+      { "value": "Buck Henry", "correct": false }
+    ]
+  },
+  {
+    "label": "Who was the first cast member to say, 'Live from New York, it's Saturday Night!'",
+    "choices": [
+      { "value": "Lorraine Newman", "correct": false },
+      { "value": "Gilda Radner", "correct": false },
+      { "value": "Don Pardo", "correct": false },
+      { "value": "Chevy Chase", "correct": true }
+    ]
+  },
+  {
+    "label": "Which professional team was featured in the famous football fan sketch featuring George Wendt?",
+    "choices": [
+      { "value": "Chargers", "correct": false },
+      { "value": "Da Bears", "correct": true },
+      { "value": "Eagles", "correct": false },
+      { "value": "Giants", "correct": false }
+    ]
+  },
+  {
+    "label": "What did Christopher Walken ask for more of in a famous sketch featuring Will Ferrell?",
+    "choices": [
+      { "value": "Sound", "correct": false },
+      { "value": "Cowbell", "correct": true },
+      { "value": "Cheese", "correct": false },
+      { "value": "Beer", "correct": false }
+    ]
+  },
+  {
+    "label": "Who is the longest-running cast member in SNL history?",
+    "choices": [
+      { "value": "Fred Armisen", "correct": false },
+      { "value": "Will Forte", "correct": false },
+      { "value": "Kenan Thompson", "correct": true },
+      { "value": "Kristen Wiig", "correct": false }
+    ]
+  }
+]

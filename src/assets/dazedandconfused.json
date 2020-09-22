@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What Texas city does the movie take place in?",
+    "choices": [
+      {
+        "value": "San Antonio",
+        "correct": false
+      },
+      {
+        "value": "Austin",
+        "correct": true
+      },
+      {
+        "value": "Houston",
+        "correct": false
+      },
+      {
+        "value": "Cactus",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How much of the movie budget did Richard Linklater spend on music rights?",
+    "choices": [
+      {
+        "value": "1/10",
+        "correct": false
+      },
+      {
+        "value": "1/20",
+        "correct": false
+      },
+      {
+        "value": "1/2",
+        "correct": false
+      },
+      {
+        "value": "1/6",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "The cast included several future movie stars. Which of the following actors was not in the movie?",
+    "choices": [
+      {
+        "value": "Renée Zellweger",
+        "correct": false
+      },
+      {
+        "value": "Ben Affleck",
+        "correct": false
+      },
+      {
+        "value": "Uma Thurman",
+        "correct": true
+      },
+      {
+        "value": "Matthew McConaughey",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Pickford's party gets moved to the _____.",
+    "choices": [
+      {
+        "value": "The School Football Field",
+        "correct": false
+      },
+      {
+        "value": "Moon Tower",
+        "correct": true
+      },
+      {
+        "value": "Slater's House",
+        "correct": false
+      },
+      {
+        "value": "The Old, Abandoned, Haunted Copper Mine",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What car does Pickford drive?",
+    "choices": [
+      {
+        "value": "1970 Chevrolet Chevelle SS 454",
+        "correct": false
+      },
+      {
+        "value": "1973 Plymouth Duster",
+        "correct": false
+      },
+      {
+        "value": "1970 Pontiac GTO Judge",
+        "correct": true
+      },
+      {
+        "value": "1974 Pontiac Trans Am",
+        "correct": false
+      }
+    ]
+  }
+]

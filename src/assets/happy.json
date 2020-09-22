@@ -1,0 +1,45 @@
+[
+  {
+    "label": "What is Happy Gilmore's favorite sport?",
+    "choices": [
+      { "value": "hockey", "correct": true },
+      { "value": "golf", "correct": false },
+      { "value": "basketball", "correct": false },
+      { "value": "cheese rolling", "correct": false }
+    ]
+  },
+  {
+    "label": "Bob Barker did his own fight stunts.",
+    "choices": [
+      { "value": "True", "correct": true },
+      { "value": "False", "correct": false }
+    ]
+  },
+  {
+    "label": "Which two PGA golfers make cameo appearances?",
+    "choices": [
+      { "value": "Tiger Woods and Phil Mickelson", "correct": false },
+      { "value": "Jack Nicklaus and Gary Player", "correct": false },
+      { "value": "Lee Trevino and Mark Lye", "correct": true },
+      { "value": "Jason Day and Viktor Hovland", "correct": false }
+    ]
+  },
+  {
+    "label": "Chubb's missing hand is a reference to which Carl Weathers' movie role?",
+    "choices": [
+      { "value": "Rocky", "correct": false },
+      { "value": "Predator", "correct": true },
+      { "value": "Rocky IV", "correct": false },
+      { "value": "Close Encounters of the Third Kind", "correct": false }
+    ]
+  },
+  {
+    "label": "Happy tries to save his _____'s house from being auctioned off.",
+    "choices": [
+      { "value": "Parent", "correct": false },
+      { "value": "Grandmother", "correct": true },
+      { "value": "Grandfather", "correct": false },
+      { "value": "Sister", "correct": false }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Who gave Dave the idea for the Rick James sketch?",
+    "choices": [
+      { "value": "Rudy Rush", "correct": false },
+      { "value": "Charlie Murphy", "correct": true },
+      { "value": "Neal Brennan", "correct": false },
+      { "value": "Donnell Rawlings", "correct": false }
+    ]
+  },
+  {
+    "label": "What did Prince make for everyone after the basketball game?",
+    "choices": [
+      { "value": "Muffins", "correct": false },
+      { "value": "Scrambled Eggs", "correct": false },
+      { "value": "Pancakes", "correct": true },
+      { "value": "Waffles", "correct": false }
+    ]
+  },
+  {
+    "label": "What musician was featured in a sketch that he claimed took his popularity to a different level?",
+    "choices": [
+      { "value": "Chingy", "correct": false },
+      { "value": "Lil Jon", "correct": true },
+      { "value": "Soulja Boy", "correct": false },
+      { "value": "Flo Rida", "correct": false }
+    ]
+  },
+  {
+    "label": "What dance was the famous dancing guy doing in a season 1 sketch?",
+    "choices": [
+      { "value": "Stirring The Pot", "correct": false },
+      { "value": "Ballet", "correct": false },
+      { "value": "Floss", "correct": false },
+      { "value": "Robot", "correct": true }
+    ]
+  },
+  {
+    "label": "Dave Chappelle and Neal Brennan learned how to write the show by reading a book about _____.",
+    "choices": [
+      { "value": "Saturday Night Live", "correct": true },
+      { "value": "Mad TV", "correct": false },
+      { "value": "Late Night with Conan O'Brien", "correct": false },
+      { "value": "Key and Peele", "correct": false }
+    ]
+  }
+]

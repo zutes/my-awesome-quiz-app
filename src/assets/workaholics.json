@@ -1,0 +1,45 @@
+[
+  {
+    "label": "The Workaholics also perform as a rap group comprised of?",
+    "choices": [
+      { "value": "Maidens", "correct": false },
+      { "value": "Wizards", "correct": true },
+      { "value": "Trolls", "correct": false },
+      { "value": "Knights", "correct": false }
+    ]
+  },
+  {
+    "label": "During the first season, Adam Devine and Blake Anderson actually lived in the party house featured in the TV show.",
+    "choices": [
+      { "value": "True", "correct": true },
+      { "value": "False", "correct": false }
+    ]
+  },
+  {
+    "label": "The name of the Workaholics' boss is _____.",
+    "choices": [
+      { "value": "Karen", "correct": false },
+      { "value": "Alice", "correct": true },
+      { "value": "Bernice", "correct": false },
+      { "value": "Sally", "correct": false }
+    ]
+  },
+  {
+    "label": "Jillian Belk has expressed her interest to live in _______.",
+    "choices": [
+      { "value": "Jurassic Park Time", "correct": true },
+      { "value": "Old Timey Western Time", "correct": false },
+      { "value": "Old Fossily Time", "correct": false },
+      { "value": "Future Time", "correct": false }
+    ]
+  },
+  {
+    "label": "The Workaholics work at which company?",
+    "choices": [
+      { "value": "Soylent Corporation", "correct": false },
+      { "value": "SalesCorp", "correct": false },
+      { "value": "Umbrella Corporation", "correct": false },
+      { "value": "TelAmericaCorp", "correct": true }
+    ]
+  }
+]

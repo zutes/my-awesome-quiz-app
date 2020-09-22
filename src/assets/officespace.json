@@ -1,0 +1,47 @@
+[
+  {
+    "label": "What color is Milton's beloved stapler?",
+    "choices": [
+      { "value": "Green", "correct": false },
+      { "value": "Yellow", "correct": false },
+      { "value": "Red", "correct": true },
+      { "value": "Black", "correct": false }
+    ]
+  },
+  {
+    "label": "What report does Peter forget to attach a cover sheet to?",
+    "choices": [
+      { "value": "Competitor", "correct": false },
+      { "value": "Profit and Loss", "correct": false },
+      { "value": "TPS", "correct": true },
+      { "value": "Reimbursement", "correct": false }
+    ]
+  },
+  {
+    "label": "Bill Lumbergh is often carrying what with him?",
+    "choices": [
+      { "value": "Sandwich", "correct": false },
+      { "value": "Coffee Cup", "correct": true },
+      { "value": "Pencil", "correct": false },
+      { "value": "Report", "correct": false }
+    ]
+  },
+  {
+    "label": "The _____ were the first names of both the consultants brought into Initech.",
+    "choices": [
+      { "value": "Stans", "correct": false },
+      { "value": "Bobs", "correct": true },
+      { "value": "Carls", "correct": false },
+      { "value": "Chris'", "correct": false }
+    ]
+  },
+  {
+    "label": "Where does Joanna work at the begining of the movie?",
+    "choices": [
+      { "value": "TGIF", "correct": false },
+      { "value": "Chotchkie's", "correct": true },
+      { "value": "Flair", "correct": true },
+      { "value": "Flingers", "correct": false }
+    ]
+  }
+]

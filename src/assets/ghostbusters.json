@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Which actor found inspiration for the film from their family's history of spiritualism?",
+    "choices": [
+      { "value": "Bill Murray", "correct": false },
+      { "value": "Sigourney Weaver", "correct": false },
+      { "value": "Harold Ramis", "correct": false },
+      { "value": "Dan Aykroyd", "correct": true }
+    ]
+  },
+  {
+    "label": "Who did Dan Akroyd originally have in mind to play the role of Peter Venkman?",
+    "choices": [
+      { "value": "Chevy Chase", "correct": false },
+      { "value": "Garrett Morris", "correct": false },
+      { "value": "John Belushi", "correct": true },
+      { "value": "Al Franken", "correct": false }
+    ]
+  },
+  {
+    "label": "What is the name of the 1959 Cadillac ambulance the Ghostbusters drive?",
+    "choices": [
+      { "value": "Ghostmobile", "correct": false },
+      { "value": "Ectomobile", "correct": true },
+      { "value": "Lennymobile", "correct": false },
+      { "value": "Spectremobile", "correct": false }
+    ]
+  },
+  {
+    "label": "_____ is the name of the Gatekeeper of Gozer.",
+    "choices": [
+      { "value": "Zuul", "correct": true },
+      { "value": "Dana", "correct": false },
+      { "value": "Vinz", "correct": false },
+      { "value": "Johnny", "correct": true }
+    ]
+  },
+  {
+    "label": "Annie Potts played the secretary, confidante and occasional ghostbuster named ______.",
+    "choices": [
+      { "value": "Lyn Tully", "correct": false },
+      { "value": "Dana Barrett", "correct": false },
+      { "value": "Jillian Holtzmann", "correct": false },
+      { "value": "Janine Melnitz", "correct": true }
+    ]
+  }
+]

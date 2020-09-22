@@ -1,0 +1,107 @@
+[
+  {
+    "label": "What is the name of the bar featured in the show?",
+    "choices": [
+      {
+        "value": "Shamrocks and Shots",
+        "correct": false
+      },
+      {
+        "value": "Paddy's Pub",
+        "correct": true
+      },
+      {
+        "value": "Happy Hours",
+        "correct": false
+      },
+      {
+        "value": "Cheers",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which of the following is not a Frank Reynolds' company?",
+    "choices": [
+      {
+        "value": "Toe Knife Inc.",
+        "correct": true
+      },
+      {
+        "value": "Frank's Fluids",
+        "correct": false
+      },
+      {
+        "value": "ReyHam Properties",
+        "correct": false
+      },
+      {
+        "value": "Atwater Capital",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "The first working title for the show was _____?",
+    "choices": [
+      {
+        "value": "Jackasses",
+        "correct": false
+      },
+      {
+        "value": "It's Always Cloudy in Philadelphia",
+        "correct": false
+      },
+      {
+        "value": "Jerks",
+        "correct": true
+      },
+      {
+        "value": "Sociopaths",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "The show is actually filmed in which city?",
+    "choices": [
+      {
+        "value": "Philadelphia",
+        "correct": false
+      },
+      {
+        "value": "Los Angeles",
+        "correct": true
+      },
+      {
+        "value": "Atlanta",
+        "correct": false
+      },
+      {
+        "value": "Boston",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Showrunners for which TV show wrote the episdoe 'Flowers for Chalie?'",
+    "choices": [
+      {
+        "value": "Rick and Morty",
+        "correct": false
+      },
+      {
+        "value": "Workaholics",
+        "correct": false
+      },
+      {
+        "value": "Seinfeld",
+        "correct": false
+      },
+      {
+        "value": "Game of Thrones",
+        "correct": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "label": "What is Rob Sneider's famous catch phrase from the movie?",
+    "choices": [
+      {
+        "value": "Hit em hard!",
+        "correct": false
+      },
+      {
+        "value": "You can do it!",
+        "correct": true
+      },
+      {
+        "value": "There ya go!",
+        "correct": false
+      },
+      {
+        "value": "Score a TD!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does Bobby's girlfriend have a tatoo of on her arm?",
+    "choices": [
+      {
+        "value": "Skull",
+        "correct": false
+      },
+      {
+        "value": "Sun",
+        "correct": false
+      },
+      {
+        "value": "Upside Down Triangle",
+        "correct": true
+      },
+      {
+        "value": "Mom",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Who is Bobby's favorite wrestler?",
+    "choices": [
+      {
+        "value": "The Mountain",
+        "correct": false
+      },
+      {
+        "value": "Gynormiso",
+        "correct": false
+      },
+      {
+        "value": "Captain Insano",
+        "correct": true
+      },
+      {
+        "value": "Pain Cave",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "According to Mama, why are Alligators so ornery?",
+    "choices": [
+      {
+        "value": "Because happiness is from magic rays of sunshine that come down when ya feeling blue",
+        "correct": false
+      },
+      {
+        "value": "Because of their Medulla Oblongata",
+        "correct": false
+      },
+      {
+        "value": "Because they got all them teeth and no toothbrush",
+        "correct": true
+      },
+      {
+        "value": "Because no, you’re wrong Colonel Sanders.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "The Waterboy is the highest-grossing sports comedy of all time.",
+    "choices": [
+      {
+        "value": "True",
+        "correct": true
+      },
+      {
+        "value": "False",
+        "correct": false
+      }
+    ]
+  }
+]
